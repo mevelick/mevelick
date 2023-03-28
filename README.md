@@ -1,14 +1,14 @@
 👋 Hi, I’m @mevelick (Marni)
 
-👩‍💻 I am ... a student majoring in Computer Information Systems concentrating in software development. I plan to continue my education with a Master's in software development.
+👩‍💻 I am ... a recent graduate and remain undecided on a career path. I am interested in data analytics, software development, iOS development, or front-end web development.
 
-💼 I work ... at a mobile app company as a senior support agent. I help troubleshoot user problems within the app and fix problems on the back-end. I also help other agents solve difficult tickets.
+💼 I work ... for a late-stage startup mobile app company as a Support Operations Coordinator of Quality. I plan to continue in this role until I have decided on my path.
 
-🌱 I’m currently learning ... Swift and C++. I also plan to learn React Native, Objective C, JavaScript and improve my skills in HTML.
+🌱 I’m ~~currently~~ was in the process of learning ... Swift, C++, & Python. However, I've hit the "pause" button while trying to make up my mind. I will resume my skill-building once I know what I need to be learning.
 
-💞️ I’m looking to collaborate on ... not sure but I will take any suggestions on collaborations that may be helpful.
+💞️ I’m looking to collaborate on ... any projects related to data analysis, web development, and/or software development - anything that will help me get experience and help me make a decision!
 
-📫 How to reach me ... by email at mevelick@gmail.com
+📫 How to reach me ... by email at marni.velick@gmail,com
 
 ![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
