@@ -11,6 +11,3 @@
 📫 How to reach me ... by email at marni.velick@gmail.com
 
 ![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-
-
-![](https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif)
