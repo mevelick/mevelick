@@ -1,13 +1,12 @@
 👋 Hi, I’m @mevelick (Marni)
 
-👩‍💻 I am ... a recent graduate and remain undecided on a career path. I am interested in data analytics, software/iOS development, or front-end web development.
+👩‍💻 I am: A (relatively) recent graduate. I received my BS in Computer Information Systems and have been exploring my interests and building my skills since graduating. I have narrowed down my choices to data analytics or software development (specifically mobile/iOS development).
 
-💼 I work ... for a late-stage startup mobile app company as a Support Operations Coordinator of Quality. I plan to continue in this role until I have decided on my path.
+💼 Work: I work as a Support Operations Coordinator of Quality Assurance for a late-stage startup mobile app company
 
-🌱 I’m ~~currently~~ was in the process of learning ... Swift, C++, & Python. However, I've hit the "pause" button while trying to make up my mind. I will resume my skill-building once I know what I need to be learning.
+💻 Programming languages: *three* different programming languages: 
+1. Python
+2. Swift
+3. C++, & Python
 
-💞️ I’m looking to collaborate on ... any projects related to data analysis, web development, and/or software development - anything that will help me get experience and help me make a decision!
-
-📫 How to reach me ... by email at marni.velick@gmail.com
-
-![](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+🏔️ Goal: I am *just* beginning to dip my toes into the world of data and am enjoying it very much. I plan to focus my attention on learning more about data analytics in the near future.
