@@ -4,7 +4,7 @@
 
 💼 Work: I work as a Support Operations Coordinator of Quality Assurance for a late-stage startup mobile app company
 
-💻 Programming languages: *three* different programming languages: 
+💻 Programming languages:
 1. Python
 2. Swift
 3. C++, & Python
